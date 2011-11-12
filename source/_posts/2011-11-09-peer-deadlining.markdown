@@ -29,6 +29,7 @@ The penalty and exception:
 * Each time I skip the report without prior announcement, I'll donate 1000JPY for [Tohoku](http://www.google.com/crisisresponse/japanquake2011.html).
 * If I cannot release any dogfood-able software until the deadline, I'll donate 5000JPY.
 * Anytime I can declare the failure and finish this experiment. It'll also result a 5000JPY donation.
+* I'd allow myself one day off per week.
 
 (By the way, I was considering to donate for the flood at Thailand. 
 But I couldn't find any reliable, easy-to-pay account for that.)

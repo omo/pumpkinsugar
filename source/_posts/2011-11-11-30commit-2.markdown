@@ -1,0 +1,36 @@
+---
+layout: post
+title: "30commit-2 - Antiquality"
+date: 2011-11-11 20:51
+comments: true
+categories: 
+---
+
+
+Being tired to write the Makefile... I hope the App Engine has a JS centric modern framework. 
+And I wasted time by bad perfectionism. Beware I'm just a hobby webdev. I cannot be take a correct way.
+To be a pragmatic hobbist, I should take an Antiquality path at the start.
+
+ * Don't mandate the project portability. Certain level of manual setup is totally OK for... for who? Actually it's me.
+ * Don't worry about the library versioning. It's not my job. I would have enough resource if the project survive to require library upgrade.
+ * Don't worry about the automation. Simple Makefile is enough for me. I don't need 
+ * Don't worry about the speed. Let's load tons of JavaScript!
+ * Don't worry about the test coverage. It's OK to break things. You can easily fix it.
+
+These "qualities" should be improved for sustainable project.
+But remember that I'm working on a new, inherently risky, hobby project.
+What I need is validate the idea by dogfooding. That should be my first priority. 
+Other stuff can follow once the idea comes true. Intentionally take the antiquality. 
+Perfectionism is a enemy of hobbyists.
+
+Done:
+
+  * Added qunit, and mounted /test as a qunit runner.
+
+Notes:
+
+ * Tried [Ender](http://ender.no.de/). But decide not to use it. I love the concept of CPAN for JS. But sharing the package repository 
+   with node.js looks a fundamental design flaw for Ender. Servers and clients have few library to share. And their names often conflict.
+   Also, Ender is rough stage and it's slow.
+
+ * Should I use backbone.js or try batman.js? I'll quickly investigate batman.js.

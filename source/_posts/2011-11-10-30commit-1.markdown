@@ -1,0 +1,29 @@
+---
+layout: post
+title: "30commit 1 - Building a Stub Site"
+date: 2011-11-10 22:11
+comments: true
+categories: 
+---
+
+I planned to push the changes. But it's failed for SSH related error.
+I'll retry it tomorrow.
+
+Done:
+
+ * Did setup the App Engine SDK.
+ * Upload an stub app: http://blankbracket.appspot.com/ .
+ * Installed [nvm](https://github.com/creationix/nvm), the latest node and [npm](http://npmjs.org/) (for CoffeeScript and Less).
+   * Installed `coffee-script`, `less`.
+ * Added [Bootstrap CSS](https://github.com/twitter/bootstrap) to our pages.
+
+Some notes:
+
+ * GAE SDK doesn't include built-in libraries for Python 2.7. I installed it to my python environment.
+ * I thought to use something like RVM (for Python). But I'm installing packages to the system for now to avoid yaks.
+
+Tomorrow:
+
+ * Add a stub JS file
+ * Setup a test page with Qunit.
+ * More.
