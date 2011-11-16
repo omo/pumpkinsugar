@@ -1,0 +1,20 @@
+---
+layout: post
+title: "30commit-5: Spending with a small rewrite"
+date: 2011-11-14 21:04
+comments: true
+categories: 
+---
+
+So I'd proceed to implement 'exercise mode', which distinguish Anki-based flashcard from others.
+I need to extend the data model to support it.
+
+During the change, I noticed that the app uses `webapp2` incorrectly. 
+It should use named capturing for its routing. But I didn't. 
+The half of todays work was spent for the rewrite. I hope my microframework be more stable.
+
+Anyway, I did a small addition to the server-side model. 
+Tomorrow I'll come back to the client side and play with batman again.
+
+
+

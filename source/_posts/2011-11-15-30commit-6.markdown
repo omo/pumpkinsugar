@@ -1,0 +1,21 @@
+---
+layout: post
+title: "30commit-6 Caught by the model again"
+date: 2011-11-15 21:53
+comments: true
+categories: 
+---
+
+I trapped my miss-asumption how model works. 
+I took a day for tweaking the server side API to follow the convention.
+
+ * https://github.com/omo/blbr/commit/2e867a004a5a5afe60ef7a12d4aeaf04081c4dc9
+
+Notes:
+
+ * Batman.js has `instanceof 'function'` pattern. should be extracted.
+ * `Model.find` should accept `option` instead of `id`? -> It's acceptable
+ * `Model.url` should be able to function? -> `constructor.url` is a function. Wow.
+ * `@::hasStorage() and @classState() not in ['loaded', 'loading']` in `Model.load` should be extracted
+ * Want to know when exception is thrown (especially `developer.assert`): 
+ * `Model.fromJSON` should reflect zero numeric value. to use binding.

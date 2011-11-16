@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "30commit 1 - Building a Stub Site"
+title: "30commit-1: Building a Stub Site"
 date: 2011-11-10 22:11
 comments: true
 categories: 

@@ -1,0 +1,26 @@
+---
+layout: post
+title: "30commit-4: Kick-Starting the Batman"
+date: 2011-11-13 14:24
+comments: true
+categories: 
+---
+
+A friend of mine visited my room and we had one-day hackathon, which resulted a good progress. 
+A basic CRUD for the primary model (Card) works now. 
+I'll start to work on the 'exercise mode' tomorrow.
+
+By the way, I started using batman.js.
+My first pression is that it's a well-written and well-designed framework,
+even though it has rough edges and I feel it a bit too complicated.
+And what more important for me is: This is the first time I feel certain level of confidence of JS coding.
+I'm thinking to learn more about the framework.
+
+Notes:
+
+ * LATER: `Batman.Model.storageKey` behaves unexpectely when it starts '/'.
+ * Can remove: `collectionJsonNamespace: false`
+ * WANTED: batman: A debug message when the requested controler api isn't found.
+ * WANTED: batman: A way to render existing subtree, instead of a remote source.
+ * WANTED: batman: A debug message for missing bound keys.
+ * WANTED: load_if_dirty or @dirty

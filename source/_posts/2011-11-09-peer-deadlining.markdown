@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "30build - Peer Deadlining"
+title: "30commit - Peer Deadlining"
 date: 2011-11-09 22:02
 comments: true
 categories: 30build
 ---
 
 I'd declare that *I'll launch the first version of my new Webapp within 30 days*.
-This is my next 30days experiment: Peer deadlining, or 30build.
+This is my next 30days experiment: Peer deadlining, or 30commit.
 
 For a long time, I've been thinking to make a simple Webapp.
 It's so simple that an experienced web developer could implement it in a day.

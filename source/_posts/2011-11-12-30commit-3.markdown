@@ -1,0 +1,23 @@
+---
+layout: post
+title: "30commit-3: Struggling Python"
+date: 2011-11-12 22:39
+comments: true
+categories: 
+---
+
+I don't like python. For me, it's a language for the App Engine. Nothing more.
+A remarkable characteristics of python is that we can use it even if we don't like it.
+The language expressiveness is fairly limited. But there are fewer pitfalls, in price of the limitation.
+
+
+Done/Doing:
+
+ * Finished stub. 
+ * Implemented User model and controller
+ * Started implementing Card model and controller
+ * Investigating Batman.js.
+
+Note:
+
+ * My microframework doesn't support collection-like RESTic access yet. I should figure out how to handle it cleanly.
