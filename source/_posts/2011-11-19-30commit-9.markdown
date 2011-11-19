@@ -1,0 +1,30 @@
+---
+layout: post
+title: "30commit-9 jQuery.ajax"
+date: 2011-11-19 00:22
+comments: true
+categories: 
+---
+
+I'm continuing to write a test against one of my Model class,
+which is a subclass of `Batman.Model`. 
+Which, in my configuration, relies on `jQuery.ajax()` to communitate to the backend.
+My plan was to stub it. And I succeeded.
+
+What I struggled was to figure out their behavior. 
+Both `Batman.Model` and `jQuery.ajax()` was not trivial for me. 
+`Batman.Model` is full of callback. And it's not a simple callbacks.
+Their communication handling is done by a set of pre-registered filters. 
+The relationship between caller and callee is more opaque than an usual callback passing style.
+I read and stepped into the code to learn how and which filter the data passes through. 
+It was a tough job.
+
+`jQuery.ajax()` is... well, it's intuisive, for someone's intuition. And it's not mine.
+I never imagined `jQuery.ajax()` converts its response into JSON or something, 
+based on the content type of the response. 
+Anyway, why not call it `responseJson`, instead of `response`? 
+
+I need to understand the typical mental model of Webdev folks.
+Actually, it is one of the hidden goal of this project: Be like a Webdev!
+
+ * https://github.com/omo/blbr/commit/339b4864f5aaa8b6dcc937299688f991bcf81b8d

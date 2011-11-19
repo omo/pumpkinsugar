@@ -19,3 +19,4 @@ Notes:
  * `@::hasStorage() and @classState() not in ['loaded', 'loading']` in `Model.load` should be extracted
  * Want to know when exception is thrown (especially `developer.assert`): 
  * `Model.fromJSON` should reflect zero numeric value. to use binding.
+

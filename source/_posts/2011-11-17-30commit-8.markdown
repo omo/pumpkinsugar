@@ -1,0 +1,16 @@
+---
+layout: post
+title: "30commit-8: Taken"
+date: 2011-11-17 23:48
+comments: true
+categories: 
+---
+
+Today I worked till late and have little time for this project.
+So I tried to fix a small bug of Batman.js. 
+I pulled the tree, opened the file, and saw the problematic part...
+but it was already fixed. Wow, their development is so active.
+Then I just upgraded my copy to ToT. That's all what I did today.
+
+By the way, the disk on my PC looks broken. 
+I should replace it.

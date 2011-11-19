@@ -1,0 +1,18 @@
+---
+layout: post
+title: "30commit-10: The First Model Logic."
+date: 2011-11-20 00:40
+comments: true
+categories: 
+---
+
+Implemented `Card.pass` and `Card.fail`. 
+
+My current policy on responsibility sharing of c/s is "minimizing the server's logic."
+So I added these on the client side. I think it's OK for this type of personal tools.
+But for more competitive or game-like stuff,
+we'd need to mirror these logic on the client and the server.
+My negligence here should be a reasonable choice though.
+
+Anyway, I'll finally come back to UI stuff tomorrow. Yay!
+

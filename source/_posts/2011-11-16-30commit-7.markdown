@@ -1,0 +1,16 @@
+---
+layout: post
+title: "30commit-7 Client side unit testing for Batman.Model"
+date: 2011-11-16 23:14
+comments: true
+categories: 
+---
+
+I started writing some test for my Card model on the client side. 
+And I need write ajax mocking for that. But it turned out 
+to be non-trivial for me.
+
+Notes:
+
+ * Want the way to unregister storage engine.
+
