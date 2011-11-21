@@ -1,0 +1,12 @@
+---
+layout: post
+title: "30commit-11"
+date: 2011-11-20 17:38
+comments: true
+categories: 
+---
+
+
+
+NOTES:
+ * Batman.Model.
