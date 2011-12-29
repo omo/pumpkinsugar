@@ -1,0 +1,23 @@
+---
+layout: post
+title: "30commit-12: Stalling"
+date: 2011-11-23 23:41
+comments: true
+categories: 
+---
+
+Hmm. I wrote certain code at the last Sunday.
+I did [a small Batman upstreaming](https://github.com/Shopify/batman/commit/2af8f8a1471bab6669e764d17053806d46eb09d0) at the Monday.
+I did nothing a the Tuesday since the PC was broken. 
+I recovered the checkout to work for my renewed Ubuntu setup.
+
+The project is stalling.
+I can't code tomorrow since it's an off-site event.
+But I'm tired to make a plea. I should push the project forward.
+
+What I should do? To add a "round" UI. Which I was failed to do it at the Sunday.
+I'd try it today. Only one hour is left for me but...
+
+ * https://github.com/omo/blbr/commit/c68be46dc30669860ed4ad7ebe1d3128b6b88bb4
+
+Not enough. But it's better than nothing.

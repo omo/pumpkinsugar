@@ -1,0 +1,24 @@
+---
+layout: post
+title: "30commit-13: Wandering and Wondering Data Binding"
+date: 2011-11-27 00:46
+comments: true
+categories: 
+---
+
+Had a few day-length blank ...
+
+ * 24(Thu): One-day off,
+ * 25(Fri): Sabotage. #1 Penalty issued. I'll pay this at the end and...
+ * 26(Sat): It's today.
+
+Today I wrote some UI code. I'm struggling Data-binding based UI.
+I started wondering whether this is a good idea. Aren't templates enough for us?
+One friend who was good at WPF told me that he gave up WPF's data binding since its 
+programing model was unintuitive and non-ideomatic. 
+He mentioned the strange collection API and its consequence. 
+I'm feeling exactly same about `Batman.Hash` and `Batman.Property`. 
+But I'll explore more about this, by actually using and being suffered by this.
+Because my understanding of this topics is far from sufficient to discuss further.
+
+Actually, my opportunitism somehow expect this be just a pain of learning.
