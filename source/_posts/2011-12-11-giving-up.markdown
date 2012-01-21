@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Giving up 30commit"
+date: 2011-12-11 19:17
+comments: true
+categories: 
+---
+
+I'm giving up 30commit. The experiment failed. 
+I just donated 7000JPY to [jrc](http://www.jrc.or.jp/). 
+
+I couldn't keep the momentum. Here is a guess why:
+
+ * I was uncomfortable to work with current codebase settings, especially with Batman.js.
+   The framework was apparently on too early stage for me to rely on. Often time, I was blocked coding by need for searching the Batman way.
+ * December wasn't good for this kind of experiment. There were so many end-year-like parties at nights and weekends.
+ * I couldn't love what I'm working on. I guess that's because I didn't care about its appearance at all. 
+   On my last hobby project, I was too focused on the appearance and didn't push code forward then failed. 
+   An opposite happened at this time.
+ * My daytime project required me more energy than I expected before.
+
+Essentially, this is because I'm not a good web developer: Neigther skilled, enthusiastic nor focused.
+There are manything that could be better. 
+
+Regardless of this experiment, I need some web app which I can play with all the time. 
+So I'll continue with blbr. But maybe I discard current client-side codebase and rewrite it.
+

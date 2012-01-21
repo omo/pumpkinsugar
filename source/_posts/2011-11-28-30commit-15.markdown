@@ -1,0 +1,17 @@
+---
+layout: post
+title: "30commit-15: Routing"
+date: 2011-11-28 23:10
+comments: true
+categories: 
+---
+
+To organize UI, I added some `route()` to the App. 
+But I couldn't figure out how I can give a view for specific action
+in reasonable manner. Then the night expired today's slot.
+
+NOTE:
+
+ * `Batman.App.classMixin.route()` is tricky and should be clarified.
+ * Want a mechanism for checking if registered route option is valid.
+ * `Controller.render`: Want to specify view name by the string.

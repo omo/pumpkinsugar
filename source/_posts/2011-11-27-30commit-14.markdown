@@ -1,0 +1,10 @@
+---
+layout: post
+title: "30commmit-14"
+date: 2011-11-27 22:29
+comments: true
+categories: 
+---
+
+I couldn't fire up today. Did a small bu fix.
+Since I finished basic UI part, I need to make it as usable as I can dogfood.
