@@ -101,7 +101,7 @@ Jan 21
 ![image](https://lh5.googleusercontent.com/-Ca8V366FvII/TxrRNdzVAKI/AAAAAAAADSs/xYRqQTRqhJs/s288/P1000703.JPG)
 
 
-Too many drinking in this single week. By the way, Another code came to my mind: No fried foods. It looks I tend to caught by them. How about explicitly avoid it?
+Too many drinking in this single week. By the way, Another code came to my mind: No fried foods. It looks I tend to caught by them. How about to avoid it explicitly?
 
 On "whitespace project" that I mentioned the last week, I noticed that having another bowl for rice is too much. Whole foods should've on the single plate. Allowing out-of-band stuff will kill the original intention.
 
