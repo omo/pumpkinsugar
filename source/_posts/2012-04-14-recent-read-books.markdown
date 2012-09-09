@@ -3,7 +3,7 @@ layout: post
 title: "まあまあ最近読んだ本"
 date: 2012-04-14 13:59
 comments: true
-categories: 
+categories: book
 ---
 
 捨てる前に記録。

@@ -3,7 +3,7 @@ layout: post
 title: "最近読んだマンガ"
 date: 2012-04-14 13:27
 comments: true
-categories: 
+categories: comics
 ---
 
 ![cover](http://ecx.images-amazon.com/images/P/4063656853.01._SCLZZZZZZZ_.jpg)
